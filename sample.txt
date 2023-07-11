@@ -1,3 +1,2 @@
 the quick brown fox jumps over a lazy dog. 
 this is the second sentence just added
-this is the third line of sentence
